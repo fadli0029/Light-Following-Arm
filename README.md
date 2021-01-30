@@ -8,6 +8,14 @@ For challenge 5, a user interface using MATLAB is required. You can find the fil
 
 If you would like to look at the questions for the Lab Assignment to get an overview of each challenge, then navigate to the ECE 5 Final Lab file.
 
+Credits to the people mentioned below for developing this Lab Assignment:
+
+1. Professor John Eldon
+2. Professor Vikash Gilja
+3. Professor Drew Hall
+4. Professor Truong Nguyen
+5. ECE 5 Spring 2020 Tutors/TA Team
+
 Below are images from challenge 1, challenge 2, and challenge 3!
 
 ![alt text](https://github.com/fadli0029/Light-Following-Arm/blob/main/images/challenge%201.jpg?raw=true)
@@ -18,9 +26,3 @@ Below are images from challenge 1, challenge 2, and challenge 3!
 
 ![alt text](https://github.com/fadli0029/Light-Following-Arm/blob/main/images/challenge%203.jpg?raw=true)
 
-Credits to the people mentioned below for developing this Lab Assignment:
-1. Professor John Eldon
-2. Professor Vikash Gilja
-3. Professor Drew Hall
-4. Professor Truong Nguyen
-5. ECE 5 Spring 2020 Tutors/TA Team
