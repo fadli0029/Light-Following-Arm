@@ -10,9 +10,9 @@ If you would like to look at the questions for the Lab Assignment to get an over
 
 Below are images from challenge 1, challenge 2, and challenge 3!
 
-![alt text](https://github.com/fadli0029/Light-Following-Arm/blob/images/challenge 1.jpg?raw=true)
-![alt text](https://github.com/fadli0029/Light-Following-Arm/blob/images/challenge 2.jpg?raw=true)
-![alt text](https://github.com/fadli0029/Light-Following-Arm/blob/images/challenge 3.jpg?raw=true)
+![alt text](https://github.com/fadli0029/Light-Following-Arm/blob/main/images/challenge%201.jpg?raw=true)
+![alt text](https://github.com/fadli0029/Light-Following-Arm/blob/main/images/challenge 2.jpg?raw=true)
+![alt text](https://github.com/fadli0029/Light-Following-Arm/blob/main/images/challenge 3.jpg?raw=true)
 
 Credits to the people mentioned below for developing this Lab Assignment:
 Professor John Eldon
