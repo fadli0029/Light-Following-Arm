@@ -1,6 +1,6 @@
 # Light-Following-Arm
 
-This project is from the final Lab Assignment in my ECE 5 class, Introduction to Electrical and Computer Engineering, at the University of California San Diego. In this project, I use the knowledge gained throughout the quarter to build a light-following arm using photoresistors and PID controls to make the servo arm follows a lit-up LED in a row of LED’s. This project tests my understandings of **sensors, actuators, C programing, systems and controls.**
+This project is from the final Lab Assignment in my ECE 5 class, Introduction to Electrical and Computer Engineering, at the University of California San Diego. In this project, I use the knowledge gained throughout the quarter to build a light-following arm using photoresistors and PID controls to make the servo arm follows a lit-up LED in a row of LED’s. This project tested my understandings of **sensors, actuators, C programing, systems and controls.**
 
 This project consists of 5 challenges and you can find the code files for each challenge in separate folders. For challenge 1, go to challenge_1 folder for the code; for challenge 2, go to challenge_2 folder for the code, and so on.
 
